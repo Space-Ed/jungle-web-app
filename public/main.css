@@ -1,0 +1,35 @@
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(217, 228, 214);
+}
+
+.title {
+    color:rgb(46, 70, 61);
+    margin-left:auto;
+    margin-left:auto;
+}
+
+
+
+#logo {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 150px; 
+    height: 150px;
+}  
+
+#jungle-mount {
+    margin-left: 10%;
+    margin-right:10%;
+}
+
+.section-title {
+
+}
+
+.section-text {
+
+}

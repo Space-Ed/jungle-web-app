@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es2015",
+        "module":"commonjs",
+        "lib":["dom"],
+        "sourceMap": true,
+        "declaration": false,
+        "watch": false
+    },
+    "include": [
+        "node_modules/jungle-core",
+        "node_modules/jungle-dom",
+        "src/**/*.ts"
+    ],
+    "exclude": [
+    ]
+}
